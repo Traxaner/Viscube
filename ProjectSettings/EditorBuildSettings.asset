@@ -42,6 +42,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Levels 11-20/Level 11.unity
     guid: cadba0a29dc14ef45968c528310db34d
   - enabled: 1
+<<<<<<< HEAD
     path: Assets/Scenes/Levels 11-20/Level 12.unity
     guid: 51508da2241a0c9419155cde7b2bef65
   - enabled: 1
@@ -69,6 +70,8 @@ EditorBuildSettings:
     path: Assets/Scenes/Levels 11-20/Level 20.unity
     guid: 00b3a84259a61a646a6afabc1626a6ba
   - enabled: 1
+=======
+>>>>>>> parent of 0d55f28 (more levels)
     path: Assets/Scenes/Level Selection.unity
     guid: db61303f71f52c344b974de7c6419b98
   m_configObjects: {}
