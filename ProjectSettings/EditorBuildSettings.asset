@@ -44,6 +44,7 @@ EditorBuildSettings:
   - enabled: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     path: Assets/Scenes/Levels 11-20/Level 12.unity
     guid: 51508da2241a0c9419155cde7b2bef65
   - enabled: 1
@@ -71,6 +72,8 @@ EditorBuildSettings:
     path: Assets/Scenes/Levels 11-20/Level 20.unity
     guid: 00b3a84259a61a646a6afabc1626a6ba
   - enabled: 1
+=======
+>>>>>>> parent of 0d55f28 (more levels)
 =======
 >>>>>>> parent of 0d55f28 (more levels)
 =======
