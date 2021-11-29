@@ -329,7 +329,6 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -338,7 +337,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: bc0f07db792e3d145b6b40bd4e69425e, type: 2}
+  - {fileID: 2100000, guid: ab9df0149bf34e14dbfa12ac50dd435e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -367,7 +366,7 @@ BoxCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6701926413365742179}
-  m_Material: {fileID: 13400000, guid: 8bd8c5da536298c4d85763ba77737182, type: 2}
+  m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
@@ -403,7 +402,7 @@ MonoBehaviour:
   _data:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
-    - {fileID: 11400000, guid: 5164402f851ce114d8b829949cbfdcdb, type: 2}
+    - {fileID: 11400000, guid: acd253bcaf9c11049a9ce1c108965afe, type: 2}
 --- !u!54 &6701926413365742180
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -418,7 +417,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 112
   m_CollisionDetection: 0
 --- !u!1 &6701926413758832830
 GameObject:
@@ -480,7 +479,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6701926414032476032}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: -5.071419, z: -10.875693}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 6701926415102414012}
@@ -633,7 +632,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 2.0339258, y: 1}
+    m_SensorSize: {x: 1.736593, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
