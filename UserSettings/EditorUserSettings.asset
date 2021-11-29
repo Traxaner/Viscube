@@ -7,6 +7,7 @@ EditorUserSettings:
   m_ConfigSettings:
     RecentlyUsedScenePath-0:
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 22424703114646680e0b0227036c7315001214396c79777d7f79521fe7f63134a2b66fa7f234362820
       flags: 0
     RecentlyUsedScenePath-1:
@@ -17,6 +18,12 @@ EditorUserSettings:
       flags: 0
     RecentlyUsedScenePath-3:
       value: 22424703114646680e0b0227036c7315001214396c79777d7f79521fe7f63134a2b665a7f234362820
+=======
+      value: 22424703114646680e0b0227036c7315001214396c796b617d663136f4e53878bba923e7ee2e26
+      flags: 0
+    RecentlyUsedScenePath-1:
+      value: 22424703114646680e0b0227036c7315001214396c796b617d663136f4e53878b3b778fce9332b25
+>>>>>>> parent of 0d55f28 (more levels)
       flags: 0
     RecentlyUsedScenePath-4:
       value: 22424703114646680e0b0227036c7315001214396c79777d7f79521fe7f63134a2b662a7f234362820
@@ -40,12 +47,16 @@ EditorUserSettings:
       flags: 0
     RecentlyUsedScenePath-5:
       value: 22424703114646680e0b0227036c7315001214396c796b617d663136f4e53878b1a923e7ee2e26
+<<<<<<< HEAD
+>>>>>>> parent of 0d55f28 (more levels)
+=======
 >>>>>>> parent of 0d55f28 (more levels)
       flags: 0
     RecentlyUsedScenePath-6:
       value: 22424703114646680e0b0227036c7315001214396c796b617d663136f4e53878b0a923e7ee2e26
       flags: 0
     RecentlyUsedScenePath-7:
+<<<<<<< HEAD
 <<<<<<< HEAD
       value: 22424703114646680e0b0227036c7315001214396c79777d7f79521fe7f63134a2b678fce9332b25
       flags: 0
@@ -58,10 +69,18 @@ EditorUserSettings:
       value: 22424703114646680e0b0227036c7315001214396c796b617d663136f4e53878b3a923e7ee2e26
       flags: 0
     RecentlyUsedScenePath-8:
+=======
+      value: 22424703114646680e0b0227036c7315001214396c796b617d663136f4e53878b3a923e7ee2e26
+      flags: 0
+    RecentlyUsedScenePath-8:
+>>>>>>> parent of 0d55f28 (more levels)
       value: 22424703114646680e0b0227036c7315001214396c79777d7f79521fe7f63134a2b667a7f234362820
       flags: 0
     RecentlyUsedScenePath-9:
       value: 22424703114646680e0b0227036c73150012146a1f2d2a352e3d143cecae2136ebf32f
+<<<<<<< HEAD
+>>>>>>> parent of 0d55f28 (more levels)
+=======
 >>>>>>> parent of 0d55f28 (more levels)
       flags: 0
     vcSharedLogLevel:
