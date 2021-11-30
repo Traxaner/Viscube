@@ -37,8 +37,8 @@ RenderSettings:
   m_ReflectionBounces: 1
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
-  m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.4497074, g: 0.4997756, b: 0.57563245, a: 1}
+  m_Sun: {fileID: 229467870}
+  m_IndirectSpecularColor: {r: 0.44971126, g: 0.49977797, b: 0.5756334, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -97,8 +97,8 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 112000000, guid: 0a09ddbd0758add4082634b815989a81, type: 2}
-  m_LightingSettings: {fileID: 4890085278179872738, guid: cc119c1c5fdaf804883d4d3963f76a1a, type: 2}
+  m_LightingDataAsset: {fileID: 112000000, guid: d58c48d0ea5ad4e498a53f7ddcd6a50a, type: 2}
+  m_LightingSettings: {fileID: 4890085278179872738, guid: ece6728d68d860f4bb6f9b412b78afed, type: 2}
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -187,6 +187,11 @@ PrefabInstance:
 --- !u!4 &229467869 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 992632634063852714, guid: b001a0e77f549834590c6f1a9f1857ba, type: 3}
+  m_PrefabInstance: {fileID: 229467868}
+  m_PrefabAsset: {fileID: 0}
+--- !u!108 &229467870 stripped
+Light:
+  m_CorrespondingSourceObject: {fileID: 4441904352038846409, guid: b001a0e77f549834590c6f1a9f1857ba, type: 3}
   m_PrefabInstance: {fileID: 229467868}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &753895201
@@ -357,6 +362,14 @@ PrefabInstance:
     - target: {fileID: 6701926413758832830, guid: cbdd8f2592f35a84dbe65e44188fe920, type: 3}
       propertyPath: m_Name
       value: Player 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6701926414032476037, guid: cbdd8f2592f35a84dbe65e44188fe920, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6701926414032476037, guid: cbdd8f2592f35a84dbe65e44188fe920, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6701926415102414012, guid: cbdd8f2592f35a84dbe65e44188fe920, type: 3}
       propertyPath: m_LocalPosition.y
