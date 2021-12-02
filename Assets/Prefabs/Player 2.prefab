@@ -111,7 +111,7 @@ MonoBehaviour:
   _data:
     _json: '{"nest":{"source":"Embed","macro":null,"embed":{"variables":{"collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":"Coincounter","summary":null,"pan":{"x":0.0,"y":-45.0},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-204.0,"y":-144.0},"guid":"997ff469-b0f2-4af2-985e-f98a2a3138d8","$version":"A","$type":"Unity.VisualScripting.Start","$id":"10"},{"coroutine":false,"defaultValues":{},"position":{"x":-110.0,"y":-184.0},"guid":"1102a2d5-08b1-45a0-8a91-99cc711df754","$version":"A","$type":"Unity.VisualScripting.Update","$id":"12"},{"chainable":false,"member":{"name":"text","parameterTypes":null,"targetType":"UnityEngine.UI.Text","targetTypeName":"UnityEngine.UI.Text","$version":"A"},"defaultValues":{"target":null,"input":{"$content":"","$type":"System.String"}},"position":{"x":162.0,"y":-143.0},"guid":"78a8bae0-5df0-4d6b-b481-06940df1708d","$version":"A","$type":"Unity.VisualScripting.SetMember","$id":"14"},{"specifyFallback":false,"kind":"Application","defaultValues":{"name":{"$content":"Coincount","$type":"System.String"}},"position":{"x":-202.0,"y":-42.0},"guid":"cbdb1f67-e133-4e29-87a3-53a36e2f7ac6","$version":"A","$type":"Unity.VisualScripting.GetVariable","$id":"17"},{"chainable":false,"member":{"name":"ToString","parameterTypes":[],"targetType":"System.Int32","targetTypeName":"System.Int32","$version":"A"},"defaultValues":{"target":{"$content":0,"$type":"System.Int32"}},"position":{"x":-11.0,"y":-59.0},"guid":"c02c5b51-f16a-47eb-8216-4747b5911909","$version":"A","$type":"Unity.VisualScripting.InvokeMember","$id":"19"},{"sourceUnit":{"$ref":"12"},"sourceKey":"trigger","destinationUnit":{"$ref":"14"},"destinationKey":"assign","guid":"54579fbd-a812-4cd9-99fa-922c2c825953","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"10"},"sourceKey":"trigger","destinationUnit":{"$ref":"14"},"destinationKey":"assign","guid":"396ac576-4445-4c5f-be1c-2f60cdea720d","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"17"},"sourceKey":"value","destinationUnit":{"$ref":"19"},"destinationKey":"target","guid":"efedb9fe-e06c-4e1e-9cf6-4abc73063727","$type":"Unity.VisualScripting.ValueConnection"},{"sourceUnit":{"$ref":"19"},"sourceKey":"result","destinationUnit":{"$ref":"14"},"destinationKey":"input","guid":"894e378a-8e63-4dad-b451-511827977fbe","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}}'
     _objectReferences: []
---- !u!1 &3912734250413708454
+--- !u!1 &4528431422201580341
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -119,27 +119,27 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 8855706554764305453}
-  - component: {fileID: 8635563900452837669}
-  - component: {fileID: 1534996725771656107}
-  - component: {fileID: 7052674476305673145}
-  - component: {fileID: 3648473357123891788}
-  - component: {fileID: 8631406025074746223}
-  - component: {fileID: 5294595658729303810}
+  - component: {fileID: 3621597510842993377}
+  - component: {fileID: 9140171497759528449}
+  - component: {fileID: 5730113621372781481}
+  - component: {fileID: 1271365008059219158}
+  - component: {fileID: 8055026403976017864}
+  - component: {fileID: 3306911547607006515}
+  - component: {fileID: 3990761138257836174}
   m_Layer: 0
-  m_Name: 'Chara '
+  m_Name: Chara
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &8855706554764305453
+--- !u!4 &3621597510842993377
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3912734250413708454}
+  m_GameObject: {fileID: 4528431422201580341}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -147,21 +147,21 @@ Transform:
   m_Father: {fileID: 6701926413758832801}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!33 &8635563900452837669
+--- !u!33 &9140171497759528449
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3912734250413708454}
-  m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
---- !u!23 &1534996725771656107
+  m_GameObject: {fileID: 4528431422201580341}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!23 &5730113621372781481
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3912734250413708454}
+  m_GameObject: {fileID: 4528431422201580341}
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -196,26 +196,26 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!135 &7052674476305673145
-SphereCollider:
+--- !u!65 &1271365008059219158
+BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3912734250413708454}
-  m_Material: {fileID: 0}
+  m_GameObject: {fileID: 4528431422201580341}
+  m_Material: {fileID: 13400000, guid: 1a243a639da8f6b4885dd539628e285c, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Radius: 0.5
+  m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &3648473357123891788
+--- !u!114 &8055026403976017864
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3912734250413708454}
+  m_GameObject: {fileID: 4528431422201580341}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e741851cba3ad425c91ecf922cc6b379, type: 3}
@@ -224,13 +224,13 @@ MonoBehaviour:
   _data:
     _json: '{"declarations":{"collection":{"$content":[{"name":"forwardSpeed","value":{"$content":10.0,"$type":"System.Single"},"$version":"A"},{"name":"sideSpeed","value":{"$content":10.0,"$type":"System.Single"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
---- !u!114 &8631406025074746223
+--- !u!114 &3306911547607006515
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3912734250413708454}
+  m_GameObject: {fileID: 4528431422201580341}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
@@ -240,13 +240,13 @@ MonoBehaviour:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
     - {fileID: 11400000, guid: 4d3301956fe4153458b9eeb4ad4e8430, type: 2}
---- !u!54 &5294595658729303810
+--- !u!54 &3990761138257836174
 Rigidbody:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3912734250413708454}
+  m_GameObject: {fileID: 4528431422201580341}
   serializedVersion: 2
   m_Mass: 1
   m_Drag: 0
@@ -254,7 +254,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 112
+  m_Constraints: 0
   m_CollisionDetection: 0
 --- !u!1 &6286113116022017935
 GameObject:
@@ -446,7 +446,7 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 8855706554764305453}
+  - {fileID: 3621597510842993377}
   - {fileID: 6701926415102414012}
   - {fileID: 6582913431976870329}
   m_Father: {fileID: 0}
@@ -479,7 +479,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6701926414032476032}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -4.3153486, z: -13.986698}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 6701926415102414012}
@@ -621,8 +621,8 @@ MonoBehaviour:
   m_StreamingVersion: 20170927
   m_Priority: 1
   m_StandbyUpdate: 2
-  m_LookAt: {fileID: 8855706554764305453}
-  m_Follow: {fileID: 8855706554764305453}
+  m_LookAt: {fileID: 3621597510842993377}
+  m_Follow: {fileID: 3621597510842993377}
   m_Lens:
     FieldOfView: 60
     OrthographicSize: 5
