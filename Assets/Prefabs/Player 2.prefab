@@ -126,6 +126,7 @@ GameObject:
   - component: {fileID: 8055026403976017864}
   - component: {fileID: 3306911547607006515}
   - component: {fileID: 3990761138257836174}
+  - component: {fileID: 9210260183707682988}
   m_Layer: 0
   m_Name: Chara
   m_TagString: Player
@@ -239,7 +240,7 @@ MonoBehaviour:
   _data:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
-    - {fileID: 11400000, guid: 4d3301956fe4153458b9eeb4ad4e8430, type: 2}
+    - {fileID: 11400000, guid: c90971ffb918a094788c16cfa46061ec, type: 2}
 --- !u!54 &3990761138257836174
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -256,6 +257,36 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &9210260183707682988
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4528431422201580341}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62899f850307741f2a39c98a8b639597, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Actions: {fileID: -944628639613478452, guid: 83cb9f027e054ff4c9f4d5fc540cea0f, type: 3}
+  m_NotificationBehavior: 0
+  m_UIInputModule: {fileID: 0}
+  m_DeviceLostEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_DeviceRegainedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_ControlsChangedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_ActionEvents: []
+  m_NeverAutoSwitchControlSchemes: 0
+  m_DefaultControlScheme: 
+  m_DefaultActionMap: Player
+  m_SplitScreenIndex: -1
+  m_Camera: {fileID: 0}
 --- !u!1 &6286113116022017935
 GameObject:
   m_ObjectHideFlags: 0
@@ -632,7 +663,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.8298887, y: 1}
+    m_SensorSize: {x: 1.5294118, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0

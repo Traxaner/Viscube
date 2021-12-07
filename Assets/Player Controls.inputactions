@@ -1,14 +1,14 @@
 {
-    "name": "CS1",
+    "name": "C2",
     "maps": [
         {
             "name": "Player",
-            "id": "35306382-dd24-4401-9b2b-b16de7c9be59",
+            "id": "4d0ea755-beea-4bb6-9837-18247c03ae0d",
             "actions": [
                 {
                     "name": "Move",
                     "type": "Value",
-                    "id": "578c1e5b-a4d0-4528-ae06-a75bd8388b16",
+                    "id": "0a6ca532-b5aa-4aa0-950b-ea389884fa35",
                     "expectedControlType": "Vector2",
                     "processors": "",
                     "interactions": ""
