@@ -175,7 +175,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: ac9fed13ff67cb84789f9d3a6f19cbf3, type: 2}
+  - {fileID: 2100000, guid: 462158cca8eb001459f5c8cb51b19d0f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"forwardSpeed","value":{"$content":5.0,"$type":"System.Single"},"$version":"A"},{"name":"sideSpeed","value":{"$content":10.0,"$type":"System.Single"},"$version":"A"},{"name":"slow?","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"You''ve
+    _json: '{"declarations":{"collection":{"$content":[{"name":"forwardSpeed","value":{"$content":5.0,"$type":"System.Single"},"$version":"A"},{"name":"sideSpeed","value":{"$content":5.0,"$type":"System.Single"},"$version":"A"},{"name":"slow?","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"You''ve
       got boost power!","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
 --- !u!114 &3306911547607006515
