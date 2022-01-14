@@ -99,13 +99,13 @@ EditorBuildSettings:
     path: Assets/Scenes/Levels 21-30/Level 30.unity
     guid: 56bad42e9b496ce43a9cf762991aa5a0
   - enabled: 1
-    path: Assets/Scenes/Levels S1-S3/CLevel 1.unity
+    path: Assets/Scenes/Special Levels/CLevel 1.unity
     guid: ffeac0dd95195c54db7abf36f47b0cbe
   - enabled: 1
-    path: Assets/Scenes/Levels S1-S3/CLevel 2.unity
+    path: Assets/Scenes/Special Levels/CLevel 2.unity
     guid: 57e387414363325489e5644eb6a9dd64
   - enabled: 1
-    path: Assets/Scenes/Levels S1-S3/CLevel 3.unity
+    path: Assets/Scenes/Special Levels/CLevel 3.unity
     guid: 13282bce1b695184cb2429194e33cbc8
   - enabled: 1
     path: Assets/Scenes/Levels 31-40/Level 31.unity
