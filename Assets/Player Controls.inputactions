@@ -1,5 +1,5 @@
 {
-    "name": "C2",
+    "name": "Player Controls",
     "maps": [
         {
             "name": "Player",
@@ -10,6 +10,14 @@
                     "type": "Value",
                     "id": "0a6ca532-b5aa-4aa0-950b-ea389884fa35",
                     "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Upwarp",
+                    "type": "Button",
+                    "id": "192c6248-ab1b-4a7c-84ef-46def555b3d6",
+                    "expectedControlType": "Button",
                     "processors": "",
                     "interactions": ""
                 }
@@ -144,6 +152,28 @@
                     "processors": "",
                     "groups": "Joystick",
                     "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "75a0609b-0241-42ea-88aa-dc83b04b3d72",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Upwarp",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "4746eb4d-a84d-4b9d-bc2b-0c6c272a7106",
+                    "path": "<Gamepad>/buttonEast",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Upwarp",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
