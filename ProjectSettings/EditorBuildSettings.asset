@@ -133,13 +133,28 @@ EditorBuildSettings:
     guid: e44700ce574211d418b171a75d063f15
   - enabled: 1
     path: Assets/Scenes/Levels 31-40/Level 39.unity
-    guid: 95a06400477cee14284135c902ffacea
+    guid: 19082c8086dd49044a08c24f4f88c319
   - enabled: 1
     path: Assets/Scenes/Levels 31-40/Level 40.unity
     guid: 1956843d66727e941b321bc1c6b8df09
   - enabled: 1
     path: Assets/Scenes/Special Levels/The Tower.unity
     guid: c5f955b385a963a4db420959a12aa35a
+  - enabled: 1
+    path: Assets/Scenes/Levels 41-50/Level 41.unity
+    guid: 097a31b13deeabd4487fcdd01db40b9d
+  - enabled: 1
+    path: Assets/Scenes/Levels 41-50/Level 42.unity
+    guid: e143fedb29e2c6c468ff4df9c5f2fd59
+  - enabled: 1
+    path: Assets/Scenes/Levels 41-50/Level 43.unity
+    guid: bd13554b9bc1b0841b9f6781ce7b1d49
+  - enabled: 1
+    path: Assets/Scenes/Levels 41-50/Level 44.unity
+    guid: 95662d5498f5f354a9871ce61de30767
+  - enabled: 1
+    path: Assets/Scenes/Levels 41-50/Level 45.unity
+    guid: df9eb407b89c7c840ad646fc4ad5aa80
   - enabled: 1
     path: Assets/Scenes/Level Selection.unity
     guid: 6f4d21d63ba01934da3f1ab16c6f6293
