@@ -97,7 +97,7 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 112000000, guid: f0ed41d18183c734bbfe316bc08891d8, type: 2}
+  m_LightingDataAsset: {fileID: 112000000, guid: 8f155c3d9cc80d34692bb1c4ada16e37, type: 2}
   m_LightingSettings: {fileID: 4890085278179872738, guid: ece6728d68d860f4bb6f9b412b78afed, type: 2}
 --- !u!196 &4
 NavMeshSettings:
@@ -329,6 +329,78 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 341912342077761058, guid: 5cf99a92b3d01f14f80285b9e1ed08c7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 9.327132
+      objectReference: {fileID: 0}
+    - target: {fileID: 341912342077761058, guid: 5cf99a92b3d01f14f80285b9e1ed08c7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -4.6909056
+      objectReference: {fileID: 0}
+    - target: {fileID: 341912342077761058, guid: 5cf99a92b3d01f14f80285b9e1ed08c7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.8512659
+      objectReference: {fileID: 0}
+    - target: {fileID: 341912342077761058, guid: 5cf99a92b3d01f14f80285b9e1ed08c7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.52473456
+      objectReference: {fileID: 0}
+    - target: {fileID: 341912342077761058, guid: 5cf99a92b3d01f14f80285b9e1ed08c7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.000000020869642
+      objectReference: {fileID: 0}
+    - target: {fileID: 341912342077761058, guid: 5cf99a92b3d01f14f80285b9e1ed08c7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.000000018561776
+      objectReference: {fileID: 0}
+    - target: {fileID: 2701713062327844513, guid: 5cf99a92b3d01f14f80285b9e1ed08c7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.086182
+      objectReference: {fileID: 0}
+    - target: {fileID: 2701713062327844513, guid: 5cf99a92b3d01f14f80285b9e1ed08c7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.4449835
+      objectReference: {fileID: 0}
+    - target: {fileID: 2701713062327844513, guid: 5cf99a92b3d01f14f80285b9e1ed08c7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9833125
+      objectReference: {fileID: 0}
+    - target: {fileID: 2701713062327844513, guid: 5cf99a92b3d01f14f80285b9e1ed08c7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.18192449
+      objectReference: {fileID: 0}
+    - target: {fileID: 2701713062327844513, guid: 5cf99a92b3d01f14f80285b9e1ed08c7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -3e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 2701713062327844513, guid: 5cf99a92b3d01f14f80285b9e1ed08c7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 1e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 3034730301939072596, guid: 5cf99a92b3d01f14f80285b9e1ed08c7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.086182
+      objectReference: {fileID: 0}
+    - target: {fileID: 3034730301939072596, guid: 5cf99a92b3d01f14f80285b9e1ed08c7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.4449835
+      objectReference: {fileID: 0}
+    - target: {fileID: 3034730301939072596, guid: 5cf99a92b3d01f14f80285b9e1ed08c7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9833125
+      objectReference: {fileID: 0}
+    - target: {fileID: 3034730301939072596, guid: 5cf99a92b3d01f14f80285b9e1ed08c7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.18192449
+      objectReference: {fileID: 0}
+    - target: {fileID: 3034730301939072596, guid: 5cf99a92b3d01f14f80285b9e1ed08c7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -3e-45
+      objectReference: {fileID: 0}
+    - target: {fileID: 3034730301939072596, guid: 5cf99a92b3d01f14f80285b9e1ed08c7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 1e-45
+      objectReference: {fileID: 0}
     - target: {fileID: 6701926413758832801, guid: 5cf99a92b3d01f14f80285b9e1ed08c7, type: 3}
       propertyPath: m_RootOrder
       value: 0
