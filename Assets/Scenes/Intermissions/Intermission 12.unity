@@ -293,7 +293,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: A quirky cubby
+  m_Text: A quirky box
 --- !u!222 &1101994329
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -435,8 +435,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: The 'cubbys' have a light blue surface at the bottom, but you might have
-    to wiggle a little
+  m_Text: The boxes have a light blue surface at the bottom, but you might have to
+    wiggle a little
 --- !u!222 &1672018108
 CanvasRenderer:
   m_ObjectHideFlags: 0
