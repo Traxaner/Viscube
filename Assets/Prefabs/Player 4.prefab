@@ -24,7 +24,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2128921171448246991}
-  m_LocalRotation: {x: 0.2669336, y: -3.4238033e-15, z: 1.836517e-15, w: 0.96371496}
+  m_LocalRotation: {x: 0.26693356, y: -0.000000028720944, z: 0.00000000795524, w: 0.96371496}
   m_LocalPosition: {x: 0, y: 3, z: -5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -451,7 +451,7 @@ GameObject:
   - component: {fileID: 3306911547607006515}
   - component: {fileID: 3990761138257836174}
   - component: {fileID: 9210260183707682988}
-  - component: {fileID: 6948446344828857056}
+  - component: {fileID: 3880068105964598986}
   m_Layer: 0
   m_Name: Chara
   m_TagString: Player
@@ -614,7 +614,7 @@ MonoBehaviour:
   m_DefaultActionMap: Player
   m_SplitScreenIndex: -1
   m_Camera: {fileID: 0}
---- !u!114 &6948446344828857056
+--- !u!114 &3880068105964598986
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

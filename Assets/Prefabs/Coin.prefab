@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 3474887220594304863}
   - component: {fileID: 3474887220594304862}
   - component: {fileID: 3474887220594304861}
-  - component: {fileID: 6979626574126845085}
+  - component: {fileID: 4554454128511123104}
   m_Layer: 0
   m_Name: Coin
   m_TagString: Untagged
@@ -130,7 +130,7 @@ MonoBehaviour:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
     - {fileID: 11400000, guid: 15f3fdae7c387f5448def7deca3f490c, type: 2}
---- !u!114 &6979626574126845085
+--- !u!114 &4554454128511123104
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -144,7 +144,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   outlineMode: 3
   outlineColor: {r: 1, g: 1, b: 1, a: 0}
-  outlineWidth: 10
+  outlineWidth: 0.5
   precomputeOutline: 0
   bakeKeys: []
   bakeValues: []

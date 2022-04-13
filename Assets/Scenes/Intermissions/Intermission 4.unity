@@ -435,8 +435,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Changing your outlook can help you to succeed                                    
-    [Q on default]
+  m_Text: Changing your outlook can help you to succeed
 --- !u!222 &1672018108
 CanvasRenderer:
   m_ObjectHideFlags: 0

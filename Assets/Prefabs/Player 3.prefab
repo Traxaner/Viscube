@@ -26,7 +26,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2076727223047602442}
-  m_LocalRotation: {x: 0.5969305, y: -0.000000043653845, z: 0.000000032479793, w: 0.80229294}
+  m_LocalRotation: {x: 0.5969305, y: 0.000000043653845, z: -0.000000032479793, w: 0.80229294}
   m_LocalPosition: {x: 0, y: 10, z: -3}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -372,7 +372,7 @@ GameObject:
   - component: {fileID: 3306911547607006515}
   - component: {fileID: 3990761138257836174}
   - component: {fileID: 9210260183707682988}
-  - component: {fileID: 8968441949448520838}
+  - component: {fileID: 6180974160739789274}
   m_Layer: 0
   m_Name: Chara
   m_TagString: Player
@@ -535,7 +535,7 @@ MonoBehaviour:
   m_DefaultActionMap: Player
   m_SplitScreenIndex: -1
   m_Camera: {fileID: 0}
---- !u!114 &8968441949448520838
+--- !u!114 &6180974160739789274
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -654,7 +654,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6516166415691757263}
-  m_LocalRotation: {x: 0.5969305, y: -0.000000043653845, z: 0.000000032479793, w: 0.80229294}
+  m_LocalRotation: {x: 0.5969305, y: 0.000000043653845, z: -0.000000032479793, w: 0.80229294}
   m_LocalPosition: {x: 0, y: 10, z: -3}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -756,7 +756,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7053441536676833838}
-  m_LocalRotation: {x: 0.2669336, y: 3.4238033e-15, z: -1.836517e-15, w: 0.96371496}
+  m_LocalRotation: {x: 0.2669336, y: -3.4238033e-15, z: 1.836517e-15, w: 0.96371496}
   m_LocalPosition: {x: 0, y: 3, z: -5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:

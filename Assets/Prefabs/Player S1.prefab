@@ -24,7 +24,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1683096133311623040}
-  m_LocalRotation: {x: 0.5969305, y: -0.000000043653845, z: 0.000000032479793, w: 0.80229294}
+  m_LocalRotation: {x: 0.5969305, y: -0.000000043653834, z: 0.000000032479786, w: 0.80229294}
   m_LocalPosition: {x: 0, y: 10, z: -3}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -197,7 +197,7 @@ GameObject:
   - component: {fileID: 3306911547607006515}
   - component: {fileID: 3990761138257836174}
   - component: {fileID: 132103453372072582}
-  - component: {fileID: 3437745983457684121}
+  - component: {fileID: 2862844893931589146}
   m_Layer: 0
   m_Name: Chara
   m_TagString: Player
@@ -341,7 +341,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 62899f850307741f2a39c98a8b639597, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Actions: {fileID: -944628639613478452, guid: 47494afe2d0e2ff4ba51ed093c1bc20c, type: 3}
+  m_Actions: {fileID: -944628639613478452, guid: 8131797b9c2d9c145b36614e5754723f, type: 3}
   m_NotificationBehavior: 2
   m_UIInputModule: {fileID: 0}
   m_DeviceLostEvent:
@@ -379,7 +379,7 @@ MonoBehaviour:
   m_DefaultActionMap: Player
   m_SplitScreenIndex: -1
   m_Camera: {fileID: 0}
---- !u!114 &3437745983457684121
+--- !u!114 &2862844893931589146
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
