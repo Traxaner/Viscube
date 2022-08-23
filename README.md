@@ -12,3 +12,4 @@ You can leave levels anytime with escape, change camera with [Q] and reset level
 You can remap the actions in the brackets ingame, reset beeing on 'E' initially should be the case but it is on T so what do I know about it.
 
 As a closing note I WON'T touch up on this project anymore, so this is it's final state.
+Game is in the folder called Viscube
